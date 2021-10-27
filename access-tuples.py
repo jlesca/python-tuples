@@ -27,7 +27,7 @@ print(colors[2:]) # Esto va imprimir desde blue, hasta white.
 # Podemos verificar la existencia de un valor específico dentro de una tupla.
 # Esto se realiza mediante la keyword IN.
 
-print('CHECK IF EXIST BLACK')
-colors = ('red','green','blue', 'yellow', 'black', 'white')
-if 'black' in colors:
-  print('Yes, Black exist in the tuple')
+print('CHECK IF EXIST BLACK') # Muestro título.
+colors = ('red','green','blue', 'yellow', 'black', 'white') # Creo la var y sus items.
+if 'black' in colors: # Si black existe en la var, que haga lo siguiente:
+  print('Yes, Black exist in the tuple') # Muestre este mensaje.
