@@ -8,3 +8,6 @@ Tuples can be ordered but unchangeable and allow duplicate values.
 
 They are written with (brackets).
 
+1.  [Creating Tuples](creating-tuples.py)
+2.  [Access Tuples](access-tuples.py)
+
