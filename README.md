@@ -13,3 +13,4 @@ They are written with (brackets).
 3.  [Update Tuples](update-tuples.py)
 4.  [Unpack Tuples](unpack-tuples.py)
 5.  [Loops Tuples](loops-tuples.py)
+6.  [Join Tuples](join-tuples.py)
