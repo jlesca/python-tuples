@@ -12,3 +12,4 @@ They are written with (brackets).
 2.  [Access Tuples](access-tuples.py)
 3.  [Update Tuples](update-tuples.py)
 4.  [Unpack Tuples](unpack-tuples.py)
+5.  [Loops Tuples](loops-tuples.py)
